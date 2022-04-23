@@ -11,7 +11,7 @@
 	<properties>
 		<maven.tomcat.port>8080</maven.tomcat.port>
 		<jdk.version>1.7</jdk.version>
-		<spring.version>4.1.4.RELEASE</spring.version>
+		<spring.version>5.3.19</spring.version>
 		<jstl.version>1.2</jstl.version>
 	</properties>
 	<dependencies>
